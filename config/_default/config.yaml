@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Pushkal Katara # Website name
-baseURL: 'pushkalkatara.github.io' # Website URL
+baseURL: 'https://pushkalkatara.github.io' # Website URL
 
 ############################
 ## LANGUAGE
