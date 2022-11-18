@@ -20,12 +20,12 @@ jobs:
         with:
           hugo-version: 'latest'
           # extended: true
-      
-      - name: Mod Graph
-        run: hugo mod graph
 
       - name: Build
         run: hugo --minify
+
+      - name: Mod Graph
+        run: hugo mod graph
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
