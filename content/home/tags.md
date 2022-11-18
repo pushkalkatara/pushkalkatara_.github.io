@@ -3,6 +3,7 @@
 # Docs: https://wowchemy.com/docs/page-builder/
 widget: tag_cloud
 
+active: False
 # This file represents a page section.
 headless: true
 

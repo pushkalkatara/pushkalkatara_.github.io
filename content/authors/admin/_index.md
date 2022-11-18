@@ -1,43 +1,40 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Pushkal Katara
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Pushkal
+last_name: Katara
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Masters Student at Robotics Institute (MSR)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Carnegie Mellon University
+    url: https://www.ri.cmu.edu/s
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am excited about building intelligent robots which can see, reason, talk and act like humans. I pursue research on Multi-Modal Machine Learning at the intersection of Computer Vision, Natural Language Processing and Robotics. My long-term goal is to build robots which can perceive its environment, involve in dialog, perform common-sense reasoning and navigate intelligently to solve its goal.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Natural Language Processing
+  - Multi-Modal Representation Learning
+  - Self-Supervised Learning
+  - EmbodiedAI
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master's in Robotics, 2022 - 2024
+      institution: Carnegie Mellon University, USA
+    - course: B.Tech in Computer Science and Engineering, 2016 - 2020
+      institution: SRM University, Chennai
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -49,19 +46,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/pushkalkatara
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/pushkalkatara
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/pushkalkatara/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -71,14 +65,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'pkatara@andrew.cmu.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I am excited about building intelligent robots which can see, reason, talk and act like humans. I am currently a first year Master's student at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/) working with Prof. [Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/) on visual-language grounding for Interactive Embodied Agents. Prior to joining CMU, I was working with Prof. [Madhava Krishna](https://scholar.google.co.in/citations?user=QDuPGHwAAAAJ&hl=en) at [Robotics Research Center](https://robotics.iiit.ac.in/publications.html), IIIT-Hyderabad on self-supervised control generation for image-based visual navigation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Parallel to research, I believe strong engineering efforts are required to scale robotics to real-world. I worked as a Machine Learning Engineer at [SkitAI](https://skit.ai/) building and deploying ConversationalAI models on scale. I also contributed to [JdeRobot](https://jderobot.github.io/) through the [Google Summer of Code](https://summerofcode.withgoogle.com/archive/2018/projects/6028761103335424) working under guidance of [Prof. Jose Maria Canas Plaza](https://gsyc.urjc.es/jmplaza/) building finite-state automata library. In my undergrad, I also lead the software team at [SRMAUV](https://srmauvsoftware.github.io/) building autonomous underwater vehicles. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Apart from research, I love to go on hikes, listening to music and playing musical instruments like keyboard and guitar. Feel free to connect with me at pkatara@andrew.cmu.edu.

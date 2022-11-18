@@ -7,12 +7,15 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 60
 
-title: Recent Publications
+active: False
+
+title: Publications
 subtitle: ''
 
 content:
+  page_type: publication
   # Filter on criteria
   filters:
     folders:
@@ -32,10 +35,6 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
+  view: compact
   columns: '2'
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}

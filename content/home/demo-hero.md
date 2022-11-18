@@ -2,6 +2,7 @@
 widget: hero
 headless: true
 weight: 10
+active: False
 title: Hugo Academic Theme
 hero_media: hero-academic.png
 cta:
