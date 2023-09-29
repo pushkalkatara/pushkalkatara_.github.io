@@ -6,11 +6,15 @@ title: 'DeepMPCVS: Deep-Model Predictive Control for Visual Servoing'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Harish YVS
+  - Harit Pandya
+  - Abhinav Gupta
+  - K. Madhava Krishna
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# # Author notes (optional)
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 date: '2020-11-17T00:00:00Z'
 doi: ''

@@ -10,22 +10,20 @@ last_name: Katara
 superuser: true
 
 # Role/position/tagline
-role: Masters Student at Robotics Institute (MSR)
+role: MS in Robotics (MSR)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Carnegie Mellon University
+  - name: Robotics Institute, Carnegie Mellon University
     url: https://www.ri.cmu.edu/s
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am excited about building intelligent robots which can see, reason, talk and act like humans. I pursue research on Multi-Modal Machine Learning at the intersection of Computer Vision, Natural Language Processing and Robotics. My long-term goal is to build robots which can perceive its environment, involve in dialog, perform common-sense reasoning and navigate intelligently to solve its goal.
+bio: I am excited about building intelligent robots which can see, reason, talk and act like humans. I pursue research on computer vision and robotics.
 
 # Interests to show in About widget
 interests:
   - Computer Vision
-  - Natural Language Processing
-  - Multi-Modal Representation Learning
-  - Self-Supervised Learning
+  - Deep Learning
   - EmbodiedAI
 
 # Education to show in About widget
@@ -33,7 +31,7 @@ education:
   courses:
     - course: Master's in Robotics, 2022 - 2024
       institution: Carnegie Mellon University, USA
-    - course: B.Tech in Computer Science and Engineering, 2016 - 2020
+    - course: B.Tech in CSE, 2016 - 2020
       institution: SRM University, Chennai
 
 # Social/Academic Networking
@@ -71,8 +69,10 @@ email: 'pkatara@andrew.cmu.edu'
 highlight_name: true
 ---
 
-Hi! I am excited about building intelligent robots which can see, reason, talk and act like humans. I am currently a first year Master's student at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/) working with Prof. [Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/) on visual-language grounding for Interactive Embodied Agents. Prior to joining CMU, I was working with Prof. [Madhava Krishna](https://scholar.google.co.in/citations?user=QDuPGHwAAAAJ&hl=en) at [Robotics Research Center](https://robotics.iiit.ac.in/publications.html), IIIT-Hyderabad on self-supervised control generation for image-based visual navigation.
+Hi there! I am excited about building intelligent robots which can see, reason, talk and act like humans. I am currently a second year Master's student at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/) working with Prof. [Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/) on 3D Perception and Robotics.
 
-Parallel to research, I believe strong engineering efforts are required to scale robotics to real-world. I worked as a Machine Learning Engineer at [SkitAI](https://skit.ai/) building and deploying ConversationalAI models on scale. I also contributed to [JdeRobot](https://jderobot.github.io/) through the [Google Summer of Code](https://summerofcode.withgoogle.com/archive/2018/projects/6028761103335424) working under guidance of [Prof. Jose Maria Canas Plaza](https://gsyc.urjc.es/jmplaza/) building finite-state automata library. In my undergrad, I also lead the software team at [SRMAUV](https://srmauvsoftware.github.io/) building autonomous underwater vehicles. 
+Prior to joining CMU, I was working with Prof. [Madhava Krishna](https://scholar.google.co.in/citations?user=QDuPGHwAAAAJ&hl=en) at [Robotics Research Center](https://robotics.iiit.ac.in/publications.html), IIIT-Hyderabad on self-supervised control generation for image-based visual navigation. I also worked as a Machine Learning Engineer at [Clutterbot](https://www.clutterbot.com/) building perception and navigation system for home robots.
 
-Apart from research, I love to go on hikes, listening to music and playing musical instruments like keyboard and guitar. Feel free to connect with me at pkatara@andrew.cmu.edu.
+In my undergrad, I contributed to [JdeRobot](https://jderobot.github.io/) through the [Google Summer of Code](https://summerofcode.withgoogle.com/archive/2018/projects/6028761103335424) working under guidance of [Prof. Jose Maria Canas Plaza](https://gsyc.urjc.es/jmplaza/) building finite-state automata library. I also lead the software team at [SRMAUV](https://srmauvsoftware.github.io/) building autonomous underwater vehicles.
+
+Apart from work, I love to go on hikes, listening to music and playing musical instruments. Feel free to connect with me at pkatara@andrew.cmu.edu.

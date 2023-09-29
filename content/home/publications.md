@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-active: False
+active: true
 
 title: Publications
 subtitle: ''

@@ -7,19 +7,19 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
 title: News
 subtitle: ''
 
-active: False
+active: false
 
 content:
-  page_type: publication
+  page_type: news
   # Filter on criteria
   filters:
     folders:
-      - publication
+      - news
     tag: ''
     category: ''
     publication_type: ''

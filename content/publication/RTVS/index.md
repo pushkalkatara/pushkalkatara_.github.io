@@ -6,11 +6,15 @@ title: 'RTVS: A Lightweight Differentiable MPC Framework for Real-Time Visual Se
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - M. Nomaan Qureshi
+  - Abhinav Gupta
+  - Harit Pandya
+  - K. Madhava Krishna
 
-# Author notes (optional)
-#author_notes:
-#  - 'Equal contribution'
-#  - 'Equal contribution'
+#Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2021-05-01T00:00:00Z'
 doi: ''
@@ -44,7 +48,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://drive.google.com/file/d/1vRdxj9BZXNdiQmYgPiu7Ov8zt5NNOmh2/view?usp=sharing'
-#url_code: 'https://github.com/pushkalkatara/DeepMPCVS'
+url_code: 'https://github.com/pushkalkatara/DeepMPCVS'
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_poster: ''
 #url_project: ''
